@@ -98,7 +98,7 @@ export default function View() {
             <h1 className="card-title mb-3">Quiz Complete</h1>
             <h4 className="card-subtitle mb-2 text-muted">You Scored:</h4>
             <h1 className="m-5">{Math.round((correctCount/totalQuestions) * 100)}%</h1>
-            <a className="btn btn-success" href={`/`}><ArrowLeft/> Return Home</a>
+            <a className="btn btn-success" href={`#/`}><ArrowLeft/> Return Home</a>
           </div>
         </div>
       )}

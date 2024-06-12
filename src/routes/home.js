@@ -22,11 +22,11 @@ export default function Home() {
                 <div className="text-end mt-2">
                   {quiz.default ? null : (
                     <>
-                      <a href={`/edit/${quiz.id}`} className="card-link btn btn-dark" title="Edit"><Pencil/></a>
+                      <a href={`#/edit/${quiz.id}`} className="card-link btn btn-dark" title="Edit"><Pencil/></a>
                       <a href="#" className="card-link btn btn-danger" title="Delete" onClick={(event) => handleDelete(event, quiz.id)}><Trash/></a>
                     </>
                   )}
-                  <a href={`/view/${quiz.id}`} className="card-link btn btn-success">Take Quiz <ArrowRight/></a>
+                  <a href={`#/view/${quiz.id}`} className="card-link btn btn-success">Take Quiz <ArrowRight/></a>
                 </div>
               </div>
             </div>
