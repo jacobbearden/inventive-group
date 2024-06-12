@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/inventive-group/static/css/main.fcf8a063.css",
+    "main.js": "/inventive-group/static/js/main.70f94a47.js",
+    "static/js/453.fffc1b2c.chunk.js": "/inventive-group/static/js/453.fffc1b2c.chunk.js",
+    "index.html": "/inventive-group/index.html",
+    "main.fcf8a063.css.map": "/inventive-group/static/css/main.fcf8a063.css.map",
+    "main.70f94a47.js.map": "/inventive-group/static/js/main.70f94a47.js.map",
+    "453.fffc1b2c.chunk.js.map": "/inventive-group/static/js/453.fffc1b2c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcf8a063.css",
+    "static/js/main.70f94a47.js"
+  ]
+}
