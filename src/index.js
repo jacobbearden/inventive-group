@@ -1,13 +1,50 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
+import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import reportWebVitals from './reportWebVitals';
+import { Provider } from 'react-redux'
+import { store, persistor } from './state/store';
+import { PersistGate } from 'redux-persist/integration/react'
+
+import Nav from './components/nav';
+import Footer from './components/footer';
+import Home from './routes/home';
+import Add from './routes/add';
+import View from './routes/view';
+
+import 'bootstrap/dist/css/bootstrap.css';
+import './index.css';
+import './custom.css';
+
+const router = createBrowserRouter([
+  {
+    path: '/',
+    element: <Home/>,
+  },
+  {
+    path: '/add',
+    element: <Add/>,
+  },
+  {
+    path: '/edit/:id',
+    element: <Add/>
+  },
+  {
+    path: '/view/:id',
+    element: <View/>
+  }
+]);
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <Nav/>
+    <Provider store={store}>
+      <PersistGate loading={null} persistor={persistor}>
+        <RouterProvider router={router} />
+      </PersistGate>
+    </Provider>
+    <Footer/>
   </React.StrictMode>
 );
 

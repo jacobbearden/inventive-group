@@ -1,0 +1,236 @@
+[
+  {
+    "default": true,
+    "id": 0,
+    "name": "Lean Terminology",
+    "cards": [
+      {
+        "id": 0,
+        "term": "6S",
+        "answer": "Study, sort, shine, set in order, standardize, and sustain.",
+        "incorrectOptions": [
+          "Incorrect Answer #1",
+          "Incorrect Answer #2",
+          "Incorrect Answer #3"
+        ]
+      },
+      {
+        "id": 1,
+        "term": "Andon",
+        "answer": "A visual light used to show the current status of a machine or process.",
+        "incorrectOptions": [
+          "Incorrect Answer #1",
+          "Incorrect Answer #2",
+          "Incorrect Answer #3"
+        ]
+      },
+      {
+        "id": 2,
+        "term": "Current State",
+        "answer": "Current condition of anything. How something is currently being done.",
+        "incorrectOptions": [
+          "Incorrect Answer #1",
+          "Incorrect Answer #2",
+          "Incorrect Answer #3"
+        ]
+      },
+      {
+        "id": 3,
+        "term": "Defects",
+        "answer": "Waste of inspection, repair, and scrapping of material to which value has already been added.",
+        "incorrectOptions": [
+          "Incorrect Answer #1",
+          "Incorrect Answer #2",
+          "Incorrect Answer #3"
+        ]
+      },
+      {
+        "id": 4,
+        "term": "FIFO",
+        "answer": "First in, first out.",
+        "incorrectOptions": [
+          "Incorrect Answer #1",
+          "Incorrect Answer #2",
+          "Incorrect Answer #3"
+        ]
+      },
+      {
+        "id": 5,
+        "term": "Five Whys",
+        "answer": "Asking five why questions to get to the root cause of a problem.",
+        "incorrectOptions": [
+          "Incorrect Answer #1",
+          "Incorrect Answer #2",
+          "Incorrect Answer #3"
+        ]
+      },
+      {
+        "id": 6,
+        "term": "Flow",
+        "answer": "Move or process in a forward motion.",
+        "incorrectOptions": [
+          "Incorrect Answer #1",
+          "Incorrect Answer #2",
+          "Incorrect Answer #3"
+        ]
+      },
+      {
+        "id": 7,
+        "term": "Future state",
+        "answer": "The condition we imagine something can be in once changes have taken place.",
+        "incorrectOptions": [
+          "Incorrect Answer #1",
+          "Incorrect Answer #2",
+          "Incorrect Answer #3"
+        ]
+      },
+      {
+        "id": 8,
+        "term": "Gemba",
+        "answer": "“The real place” the place where work occurs.",
+        "incorrectOptions": [
+          "Incorrect Answer #1",
+          "Incorrect Answer #2",
+          "Incorrect Answer #3"
+        ]
+      },
+      {
+        "id": 9,
+        "term": "Hai",
+        "answer": "“I accept the challenge.”",
+        "incorrectOptions": [
+          "Incorrect Answer #1",
+          "Incorrect Answer #2",
+          "Incorrect Answer #3"
+        ]
+      },
+      {
+        "id": 10,
+        "term": "Hansei",
+        "answer": "“Reflection”. Reflect on what went right or what went wrong. Make changes if needed and try something else.",
+        "incorrectOptions": [
+          "Incorrect Answer #1",
+          "Incorrect Answer #2",
+          "Incorrect Answer #3"
+        ]
+      },
+      {
+        "id": 11,
+        "term": "Heijunka",
+        "answer": "A process to help manage production by leveling peaks and valleys of customer demand.",
+        "incorrectOptions": [
+          "Incorrect Answer #1",
+          "Incorrect Answer #2",
+          "Incorrect Answer #3"
+        ]
+      },
+      {
+        "id": 12,
+        "term": "Kaizen",
+        "answer": "Many small changes for the better, created by the people that do the work.",
+        "incorrectOptions": [
+          "Incorrect Answer #1",
+          "Incorrect Answer #2",
+          "Incorrect Answer #3"
+        ]
+      },
+      {
+        "id": 13,
+        "term": "Kanban",
+        "answer": "A visual system that shows you to replace what has been consumed.",
+        "incorrectOptions": [
+          "Incorrect Answer #1",
+          "Incorrect Answer #2",
+          "Incorrect Answer #3"
+        ]
+      }
+    ]
+  },
+  {
+    "default": true,
+    "id": 1,
+    "name": "8 Wastes",
+    "cards": [
+      {
+        "id": 0,
+        "term": "Overproduction",
+        "answer": "To produce sooner, faster, or in greater quantities than customer demands.",
+        "incorrectOptions": [
+          "Incorrect Answer #1",
+          "Incorrect Answer #2",
+          "Incorrect Answer #3"
+        ]
+      },
+      {
+        "id": 1,
+        "term": "Inventory",
+        "answer": "Raw material, work in process, or finished goods which are not having value added to it.",
+        "incorrectOptions": [
+          "Incorrect Answer #1",
+          "Incorrect Answer #2",
+          "Incorrect Answer #3"
+        ]
+      },
+      {
+        "id": 2,
+        "term": "Waiting",
+        "answer": "People or parts that wait for a work cycle to be completed.",
+        "incorrectOptions": [
+          "Incorrect Answer #1",
+          "Incorrect Answer #2",
+          "Incorrect Answer #3"
+        ]
+      },
+      {
+        "id": 3,
+        "term": "Motion",
+        "answer": "Unnecessary movement of people, parts or machines within a process.",
+        "incorrectOptions": [
+          "Incorrect Answer #1",
+          "Incorrect Answer #2",
+          "Incorrect Answer #3"
+        ]
+      },
+      {
+        "id": 4,
+        "term": "Transportation",
+        "answer": "Unnecessary movement of people or parts between processes.",
+        "incorrectOptions": [
+          "Incorrect Answer #1",
+          "Incorrect Answer #2",
+          "Incorrect Answer #3"
+        ]
+      },
+      {
+        "id": 5,
+        "term": "Defects",
+        "answer": "Not right the first time. Repetition or correction of a process. Scrap, rework and defects.",
+        "incorrectOptions": [
+          "Incorrect Answer #1",
+          "Incorrect Answer #2",
+          "Incorrect Answer #3"
+        ]
+      },
+      {
+        "id": 6,
+        "term": "Over Processing",
+        "answer": "Processing beyond the standard required by the customer.",
+        "incorrectOptions": [
+          "Incorrect Answer #1",
+          "Incorrect Answer #2",
+          "Incorrect Answer #3"
+        ]
+      },
+      {
+        "id": 7,
+        "term": "Talent",
+        "answer": "Underutilizing people’s talents, skills, and knowledge.",
+        "incorrectOptions": [
+          "Incorrect Answer #1",
+          "Incorrect Answer #2",
+          "Incorrect Answer #3"
+        ]
+      }
+    ]
+  }
+]

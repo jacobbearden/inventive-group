@@ -1,0 +1,8 @@
+.image-mask {
+  filter: invert(100%);
+  mix-blend-mode: lighten;
+}
+
+.card-link {
+  margin-left: 5px !important;
+}
